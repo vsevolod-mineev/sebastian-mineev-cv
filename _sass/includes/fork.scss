@@ -1,0 +1,6 @@
+.education {
+    margin-bottom: 20px;
+    .title {
+        @include sub-header;
+    }
+}
