@@ -11,8 +11,8 @@
                 {{exp.company}} 
                 <span class="time">{{exp.time}}</span>
             </div> 
-            <div class="details">{{exp.details|nl2br}}</div>
-            <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
+            <div class="details">{{exp.details|newline_to_br}}</div>
+            <p class="technologies"><b>Technologies Used:</b> {{exp.technologies_used}}</p>
         </div>
        
     {% endfor %}
