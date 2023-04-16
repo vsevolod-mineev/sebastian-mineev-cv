@@ -15,7 +15,7 @@ languages:
   - idiom: Russian
 
 education:
-  - degree: MSci in Physics with Theoretical Physics
+  - degree: MSci in Theoretical Physics
     time: 2012-2016
     university: Imperial College London
 
@@ -23,6 +23,8 @@ skills:
   - category: Scientific
     skill: 
       - Physics
+      - Mathematics
+      - Quantum Computing
       - Analytics
       - Cryptography
       - Neuroscience
@@ -61,7 +63,6 @@ skills:
       - Google Cloud
       - Apache
       - Nginx
-      - Ruby
   - category: Frontend
     skill:
       - Django
@@ -76,6 +77,9 @@ skills:
       - Azure
       - Firebase
       - MixPanel
+      - SendGrid
+      - Twillio
+      - MailChimp
       - Mathematica
       - Git
       - Jira
@@ -98,10 +102,10 @@ experience:
     time: 2022-2022
     company: First4Freelancers
     details: |
-      Grew the new facilities management branch of the business from a handful of employees to a team numbering more than 30 people. Advertised, recruited, trained and managed.<br>
-      Worked closely with senior decision makers to establish new revenue streams for the company.<br>
-      Oversaw and developed analytic, data automation and data processing infrastructure.<br>
-      Integrated various functional into our Content Management System (CMS).<br>
+      <br>Grew the new facilities management branch of the business from a handful of employees to a team numbering more than 30 people. Advertised, recruited, trained and managed.<br><br>
+      <br>Worked closely with senior decision makers to establish new revenue streams for the company.<br><br>
+      Oversaw and developed analytic, data automation and data processing infrastructure.<br><br>
+      <br>Integrated various functional into our Content Management System (CMS).<br><br>
     technologies_used: | 
       Google Ads, Google Analytics, Wix, Semrush.
 
@@ -120,15 +124,10 @@ experience:
       Jira, AWS, MongoDB, Google Analytics, MixPanel, Google Ads, Intercom, FullStory, Salesforce and Stuart. 
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: Datamining the laws of Physics with Deep Neural Networks.
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Vsevolod Mineev
+    conference: Imperial College London, 2016
 
 projects:
   - title: Cool Project 
