@@ -108,8 +108,9 @@ experience:
   - role: Co-Founder, CAO and Hype Weaver
     time: 2016-2021
     company: Clouder
-    details: >
-      Founded the company along with two friends during my final university year. Was at the helm of marketing, software engineering, analytic, fundraising, legal, logistic and customer service aspects of running a company. Raised £430,000 from 409 investors in 17 countries. Developed and brought to market a subscription service, marketplace, 1hr delivery, store locator and a wholesale platform. Was personally responsible for signing-up the first 100 merchants to join our platform. This included retail chains, manufacturers and wholesalers. Executed two successful crowdfunding campaigns at multimillion valuations on Seedrs being instrumental to both subscribing the round and producing all the required material in the form of crowdfunding videos, media assets, financial accounts, team memorandums and presentations for fundraising events. Organised large teams to attend trade shows, tackle field marketing and support our partner stores. Developed order management, stock management and invoicing functional.\n
+    details: |
+      Founded the company along with two friends during my final university year. Was at the helm of marketing, software engineering, analytic, fundraising, legal, logistic and customer service aspects of running a company./n 
+      Raised £430,000 from 409 investors in 17 countries. Developed and brought to market a subscription service, marketplace, 1hr delivery, store locator and a wholesale platform. Was personally responsible for signing-up the first 100 merchants to join our platform. This included retail chains, manufacturers and wholesalers. Executed two successful crowdfunding campaigns at multimillion valuations on Seedrs being instrumental to both subscribing the round and producing all the required material in the form of crowdfunding videos, media assets, financial accounts, team memorandums and presentations for fundraising events. Organised large teams to attend trade shows, tackle field marketing and support our partner stores. Developed order management, stock management and invoicing functional.\n
     technologies_used: | 
       Jira, AWS, MongoDB, Google Analytics, MixPanel, Google Ads, Intercom, FullStory, Salesforce and Stuart. 
 
