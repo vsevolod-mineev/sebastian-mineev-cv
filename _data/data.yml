@@ -5,7 +5,7 @@ fork: true
 # Sidebar
 contact:
   email: vsevolod-mineev@gmail.com
-  github: https://github.com/vsevolod-mineev
+  github: vsevolod-mineev
   twitter: vsevolod_mineev
   tiktok: sebastian_mineev
   instagram: sebastian_mineev
@@ -22,32 +22,63 @@ education:
 skills:
   - category: Scientific
     skill: 
-      - Go
-      - Rust
+      - Physics
+      - Analytics
+      - Cryptography
+      - Neuroscience
+      - Machine Learning
   - category: Financial & Legal
     skill: 
-      - Go
-      - Rust
+      - Accounting
+      - Payroll
+      - Human Resources
+      - Corporate Law
+      - Crowdfunding
   - category: Marketing
     skill: 
-      - Go
-      - Rust
+      - Advertising
+      - E-commerce
+      - Fundraising
+      - Search Engine Optimisation
+      - Content Creation
   - category: Logistic
     skill: 
-      - Go
-      - Rust
+      - Stock Management
+      - Courier Networks
+      - Warehousing
+      - International Shipping
+      - Retail Replenishment
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Python
+      - Torch
+      - Tensorflow
+      - Keras
+      - Haskell
+      - Tesseract
+      - SQL
+      - MongoDB
+      - Google Cloud
+      - Apache
+      - Nginx
+      - Ruby
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - Django
+      - Angular
+      - HTMLS/CSS
+      - Wix
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+      - AWS
+      - Azure
+      - Firebase
+      - MixPanel
+      - Mathematica
+      - Git
+      - Jira
 
 # Profile
 profile: |
