@@ -130,24 +130,15 @@ publications:
     conference: Imperial College London, 2016
 
 projects:
-  - title: Cool Project 
+  - title: SimpleX Chat 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design!
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2022
+    role: Fundraiser
+    company: Centerpoint
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Centrepoint is a charity in the United Kingdom which provides accommodation and support to homeless people aged 16–25. 

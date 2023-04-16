@@ -37,7 +37,14 @@
             </a>
         </div>
     {% endif %}
-
+    {% if contact.crunchbase %}
+        <div class="contact-item">
+            <i data-feather="crunchbase"></i>
+            <a href="https://www.crunchbase.com/person/{{contact.linkedin}}">
+                {{contact.crunchbase}}
+            </a>
+        </div>
+    {% endif %}
     {% if contact.twitter %}
         <div class="contact-item">
             <i data-feather="twitter"></i>
@@ -55,5 +62,14 @@
             </a>
         </div>
     {% endif %}
+
+    {% if contact.youtube %}
+    <div class="contact-item">
+        <i data-feather="youtube"></i>
+        <a href="https://www.youtube.com/@{{contact.gitlab}}">
+            {{contact.youtube}}
+        </a>
+    </div>
+{% endif %}
 </section>
 {% endif %}
