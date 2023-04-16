@@ -2,5 +2,6 @@
     margin-bottom: 20px;
     .title {
         @include sub-header;
+        margin-bottom: 4px;
     }
 }
