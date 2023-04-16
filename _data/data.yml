@@ -6,8 +6,8 @@ fork: true
 contact:
   email: vsevolod-mineev@gmail.com
   github: vsevolod-mineev
-  twitter: vsevolod_mineev
-  tiktok: sebastian_mineev
+  crunchbase: seb-mineev
+  youtube: sebastian_mineev
   instagram: sebastian_mineev
 
 languages:
@@ -69,6 +69,7 @@ skills:
       - Angular
       - HTMLS/CSS
       - JavaScript
+      - Selenium
   - category: DevOps
     skill:
       - Docker
@@ -80,13 +81,17 @@ skills:
       - SendGrid
       - Twillio
       - MailChimp
-      - Mathematica
       - Git
       - Jira
+  - category: Operating Systems
+    skill: 
+      - Windows
+      - macOS
+      - Linux
 
 # Profile
 profile: |
-  Talented individual with over 7 years of executive experience looking for a demanding and rewarding position at your company. During the final year of my degree in Theoretical Physics at Imperial College London I founded a start-up Clouder which was later valued at £3,000,000 by 409 investors in 17 countries and subscribed £430,000. These funds were allocated to develop and bring to market a subscriptions service, marketplace, 1hr delivery, store locator and a wholesale platform.
+  Talented individual with over 8 years of executive experience looking for a demanding and rewarding position at your company. During the final year of my degree in Theoretical Physics at Imperial College London I founded a start-up Clouder which was later valued at £3,000,000 by 409 investors in 17 countries and subscribed £430,000. These funds were allocated to develop and bring to market a subscriptions service, marketplace, 1hr delivery, store locator and a wholesale platform.
 
 # Experience
 experience:
@@ -96,7 +101,7 @@ experience:
     details: |
 
     technologies_used: | 
-      Python, Microsoft Dynamics, PowerBI.
+      Python, Microsoft Dynamics, PowerBI, 
   
   - role: Business Development Manager
     time: 2022-2022
@@ -107,7 +112,7 @@ experience:
       Oversaw and developed analytic, data automation and data processing infrastructure.<br><br>
       <br>Integrated various functional into our Content Management System (CMS).<br><br>
     technologies_used: | 
-      Google Ads, Google Analytics, Wix, Semrush.
+      Google Ads, Google Analytics, Wix, Semrush, Sendgrid, Twillio.
 
   - role: Co-Founder, CAO and Hype Weaver
     time: 2016-2021
