@@ -72,8 +72,6 @@ skills:
       - Selenium
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes
       - AWS
       - Azure
       - Firebase
