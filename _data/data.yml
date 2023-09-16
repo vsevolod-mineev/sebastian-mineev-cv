@@ -97,7 +97,12 @@ experience:
     time: 2022-Present
     company: Eataly
     details: |
-
+      <br>🔘 Developed software infrastructure that is now utilised to process all the invoices for the London store.<br>
+      🔘 Received and oversaw all warehouse transfers for a large food court.<br>
+      🔘 Prepared financial reports and forecasts.<br>
+      🔘 Digitalised central kitchen transfers.<br>
+      🔘 Enforced accurate stock control.<br>
+      🔘 Worked with suppliers to perform returns, report missing stock, and address discrepancies.
     technologies_used: | 
       Python, Microsoft Dynamics, PowerBI, Selenium.
   
